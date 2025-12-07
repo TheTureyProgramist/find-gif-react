@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/find-gif-react/static/css/main.31d6cfe0.css",
+    "main.js": "/find-gif-react/static/js/main.0296a12c.js",
+    "index.html": "/find-gif-react/index.html",
+    "main.0296a12c.js.map": "/find-gif-react/static/js/main.0296a12c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.0296a12c.js"
+  ]
+}
